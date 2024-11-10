@@ -1,2 +1,1 @@
-# EventPlanner
-Event Planner
+# coding-project-template
